@@ -1,2 +1,0 @@
-# Gizi
-Sliding Menu
